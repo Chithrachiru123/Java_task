@@ -10,4 +10,4 @@ public class DataTypeExamples {
             System.out.println("Name: " + name + ", Age: " + age + ", Height: " + height + ", Grade: " + grade + ", Is Student: " + isStudent);
         }
     }
-}
+
