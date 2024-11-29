@@ -1,3 +1,4 @@
+
 // Parent Class: Vehicle
 class Vehicle {
     String brand;

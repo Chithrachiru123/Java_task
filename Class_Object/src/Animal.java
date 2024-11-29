@@ -1,3 +1,4 @@
+//Create 3 parent and child class and override the method in each of child class.
 // Parent class
 class Animal {
     public void sound() {
