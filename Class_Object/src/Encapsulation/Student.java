@@ -1,3 +1,5 @@
+package Encapsulation;
+
 class Student {
     private int id;
     private String course;

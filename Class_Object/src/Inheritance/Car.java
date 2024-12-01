@@ -1,3 +1,5 @@
+package Inheritance;
+
 // Subclass: Car
 class Car extends Vehicle {
     int numberOfDoors;

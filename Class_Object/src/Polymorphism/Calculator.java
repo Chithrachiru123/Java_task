@@ -1,3 +1,5 @@
+package Polymorphism;
+
 //Create a 3 class and have 3 different method overloading.
 class Calculator {
     // Method to add two numbers

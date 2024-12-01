@@ -1,3 +1,4 @@
+package Inheritance;
 
 // Parent Class: Vehicle
 class Vehicle {

@@ -1,3 +1,5 @@
+package Inheritance;
+
 // Subclass: Bike
 class Bike extends Vehicle {
     boolean hasCarrier;

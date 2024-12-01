@@ -1,3 +1,5 @@
+package Inheritance;
+
 // Main Class to Test
  class VehicleInheritance {
     public static void main(String[] args) {
