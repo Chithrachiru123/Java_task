@@ -1,3 +1,5 @@
+package Inheritance;
+
 // Child Class
 class Child extends Parent1 implements Parent2 {
     void displayAllMethods() {

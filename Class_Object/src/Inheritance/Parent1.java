@@ -1,3 +1,5 @@
+package Inheritance;
+
 // Parent Class 1
 class Parent1 {
     void method1() {

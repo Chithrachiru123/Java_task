@@ -1,3 +1,5 @@
+package Inheritance;
+
 // Parent Class 2 (Interface for multiple inheritance)
 interface Parent2 {
     default void method6() {
